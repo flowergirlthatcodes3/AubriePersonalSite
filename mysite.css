@@ -1,3 +1,12 @@
 body {
     background-color: darksalmon;
+} 
+nav {
+    background-color: blanchedalmond;
+    box-shadow: 6px 0 6px 0 black;
+    display: inline-block;
+    vertical-align: center;
+
+
+
 }
